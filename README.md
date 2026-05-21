@@ -27,3 +27,5 @@ Smart To-Do Manager is a Java-based task management application developed using 
 - GUI Integration
 - Database Support
 - Login Authentication
+  ##PROJECT OUTPUT
+  ![OUTPUT](SMART TO DO MANAGER.jpeg,SMART TO DO MANAGER 1.jpeg,SMART TO DO MANAGER 2.jpeg)
